@@ -1,0 +1,12 @@
+Criar projeto: ng new nomedoprojeto
+Criar modulo: ng g m nomemodulo
+Criar componente: ng g c nomecomponente
+
+Iniciar server: ng serve
+Executar teste unitários: ng test
+
+Executar testes de integração: ng e2e
+
+Verificar se o código criado esta padronizado: ng lint
+
+ng g c calculadora/calculadora
